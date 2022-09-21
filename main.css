@@ -7,13 +7,6 @@
     font-family: 'Poppins';
 }
 
-:root {
-    --background: #1c1c1c;
-    --sidebarcolor1: #171717;
-    --sidebarcolor2: #ffff;
-    --textcolor: #ffff;
-}
-
 /* Generic CSS */
 
 
@@ -21,7 +14,6 @@ body {
     position: relative;
     min-height: 100vh;
     width: 100%;
-    background-color: var(--background);  
     min-height: 100vh;
 }
 
